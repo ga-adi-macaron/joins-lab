@@ -60,3 +60,9 @@ A working app that meets the requirements above.
 <img src="./screenshots/screen1.png" width="300"/>
 <img src="./screenshots/screen2.png" width="300"/>
 <img src="./screenshots/screen3.png" width="300"/>
+
+---
+
+## Licensing
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact [legal@ga.co](mailto:legal@ga.co).
